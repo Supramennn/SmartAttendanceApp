@@ -1,0 +1,10 @@
+<resources>
+    <color name="primary">#6750A4</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="secondary">#00BFA6</color>
+    <color name="bg">#FFFDF7</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1D1B20</color>
+    <color name="onGlass">#121212</color>
+
+</resources>
